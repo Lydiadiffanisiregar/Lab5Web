@@ -24,11 +24,14 @@ Ini hasil di Microsoft Edge nya
 
 4. Pemakaian method dalam objek
 ![foto](foto/3.PNG)
-<p>Ini hasil di Microsoft Edge nya</p>
+<p> Ini hasil di Microsoft Edge nya </p>
+
 ![foto](foto/hasil3.PNG)
 
 5. Pemakaian Prompt
 ![foto](foto/4.PNG)
-Ini hasil di Microsoft Edge nya
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
 ![foto](foto/hasil4.1.PNG)
 ![foto](foto/hasil4.2.PNG)
