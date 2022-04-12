@@ -93,3 +93,11 @@ Seleksi kondisi (if..else)
 ![foto](foto/hasil10.1.PNG)
 ![foto](foto/hasil10.2.PNG)
 
+10. <strong> HTML DOM </strong>
+<strong> Pilihan menggunakan checkBox dengan perhitungan otomatis </strong>
+
+![foto](foto/11.png)
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil11.PNG)
