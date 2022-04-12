@@ -101,3 +101,24 @@ Seleksi kondisi (if..else)
 <p> Ini hasil di Microsoft Edge nya </p>
 
 ![foto](foto/hasil11.PNG)
+
+## Pertanyaan dan Tugas
+1. Buat script untuk melakukan validasi pada isian form.
+
+## JAWAB
+Membuat validasi NAMA, EMAIL, NO.TELP
+1. <strong>Nama</strong>
+<p>Saya akan memberikan Validasi berupa inputan hanya boleh menggunakan Huruf/Alphabet saja. Contoh: Lydia (benar), Lydia01 (salah).
+
+![foto](foto/12.PNG)
+
+Penjelasan
+
+<p>.Pertama membuat nama function Alphabet, dengan parameter dinamis yaitu (nilai, pesan).</p>
+<p>.Data yang boleh dimasukkan adalah berupa "a-zA-Z".</p>
+<p>.Jika selain data "a-zA-Z" ini dimasukkan, maka akan muncul pesan Alert "alert(pesan);"</p>
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil12.PNG)
+
