@@ -86,8 +86,10 @@ Seleksi kondisi (if..else)
 
 9. <p> Form Button. </p>
 
-![foto](foto/9.PNG)
+![foto](foto/10.png)
 
 <p> Ini hasil di Microsoft Edge nya </p>
 
-![foto](foto/hasil9.PNG)
+![foto](foto/hasil10.1.PNG)
+![foto](foto/hasil10.2.PNG)
+
