@@ -152,7 +152,7 @@ Penjelasan :
 ![foto](foto/hasil14.PNG)
 
 ## Berikut penulisan form yang benar
-![foto](foto/15.PNG)
+![foto](foto/15.png)
 
 <p> Ini hasil di Microsoft Edge nya </p>
 
