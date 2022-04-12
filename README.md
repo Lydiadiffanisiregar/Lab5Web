@@ -136,3 +136,24 @@ Penjelasan :
 <p> Ini hasil di Microsoft Edge nya </p>
 
 ![foto](foto/hasil13.PNG)
+
+3. <strong>Email</strong>
+<p>Pada email akan diberikan validasi masih berupa Regular Expression. Contoh: lydia@gmail.com (benar), lydia@gmail. (salah).</p>
+
+![foto](foto/14.PNG)
+
+
+Penjelasan :
+
+<p>membuat variabel email " var email = /^([a-zA-Z0-9_.+-])+@(([a-zA-Z0-9-])+.)+([a-zA-Z0-9]{2,4})+$/; " berupa huruf, angka dan simbol yang diperbolehkan dalam input sebuah email. Jika email salah maka akan ada pesan alert "alert(pesan)</p>
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil14.PNG)
+
+## Berikut penulisan form yang benar
+![foto](foto/15.PNG)
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil5.PNG)
