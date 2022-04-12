@@ -28,7 +28,8 @@ Ini hasil di Microsoft Edge nya
 
 ![foto](foto/hasil3.PNG)
 
-5. Pemakaian Prompt
+5. <p> Pemakaian Prompt </p>
+
 ![foto](foto/4.PNG)
 
 <p> Ini hasil di Microsoft Edge nya </p>
