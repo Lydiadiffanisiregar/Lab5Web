@@ -21,3 +21,13 @@ Ini hasil di Microsoft Edge nya
 
 Ini hasil di Microsoft Edge nya
 ![foto](foto/hasil2.PNG)
+
+4. Pemakaian method dalam objek
+![foto](foto/3.PNG)
+Ini hasil di Microsoft Edge nya
+![foto](foto/hasil3.PNG)
+
+5. Pemakaian Prompt
+![foto](foto/4.PNG)
+Ini hasil di Microsoft Edge nya
+![foto](foto/hasil4.PNG)
