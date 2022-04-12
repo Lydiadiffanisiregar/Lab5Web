@@ -68,7 +68,7 @@ Seleksi kondisi (if..else)
 
 <p> Penggunaan operator switch untuk seleksi kondisi </p>
 
-![foto](foto/8.PNG)
+![foto](foto/8.png)
 
 <p> Ini hasil di Microsoft Edge nya </p>
 
@@ -79,3 +79,15 @@ Seleksi kondisi (if..else)
 <p> Form Input </p>
 
 ![foto](foto/9.PNG)
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil9.PNG)
+
+9. <p> Form Button. </p>
+
+![foto](foto/9.PNG)
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil9.PNG)
