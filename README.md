@@ -106,19 +106,33 @@ Seleksi kondisi (if..else)
 1. Buat script untuk melakukan validasi pada isian form.
 
 ## JAWAB
-Membuat validasi NAMA, EMAIL, NO.TELP
+Membuat validasi NAMA, NO.TELP,EMAIL
 1. <strong>Nama</strong>
 <p>Saya akan memberikan Validasi berupa inputan hanya boleh menggunakan Huruf/Alphabet saja. Contoh: Lydia (benar), Lydia01 (salah).
 
 ![foto](foto/12.PNG)
 
-Penjelasan
+Penjelasan :
 
-<p>.Pertama membuat nama function Alphabet, dengan parameter dinamis yaitu (nilai, pesan).</p>
-<p>.Data yang boleh dimasukkan adalah berupa "a-zA-Z".</p>
-<p>.Jika selain data "a-zA-Z" ini dimasukkan, maka akan muncul pesan Alert "alert(pesan);"</p>
+<p>Pertama membuat nama function Alphabet, dengan parameter dinamis yaitu (nilai, pesan).</p>
+<p>Data yang boleh dimasukkan adalah berupa "a-zA-Z".</p>
+<p>Jika selain data "a-zA-Z" ini dimasukkan, maka akan muncul pesan Alert "alert(pesan).</p>
 
 <p> Ini hasil di Microsoft Edge nya </p>
 
 ![foto](foto/hasil12.PNG)
 
+2. <strong>No.Telp</strong>
+<p>Pada bagian ini akan saya berikan validasi berupa hanya angka saja yang boleh di inputkan, contoh: 54321 (benar), BA321 (salah).</p>
+
+![foto](foto/13.PNG)
+
+Penjelasan :
+
+<p>var numberExp = /^[0-9]+$/; merupakan variabel numberExp yang diberi batasan validasi angka 0-9</p>
+<p>Arti Match pada "if(nilai.value.match(numberExp))" adalah string.match(), mencari string menggunakan Regular Expression (Regex)</p>
+<p>Jika salah atau inputan tidak benar maka akan ada pesan alert "alert(pesan)</p>
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil13.PNG)
