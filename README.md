@@ -7,6 +7,7 @@
 ## Langkah langkah praktikum 5
 
 1. Pertama - tama membuka VSC
+
 ![foto](foto/awalan.PNG)
 
 2. Kemudian membuat dokumen HTML dengan nama file <strong> lab4_box.html </strong>
@@ -15,6 +16,7 @@ Ini hasil di Microsoft Edge nya
 ![foto](foto/hasil1.PNG)
 
 3. <strong> Javascrip Dasar </strong>
+
 <p> Pemakaian Alert sebagai property window. </p>
 
 ![foto](foto/2.PNG)
@@ -23,6 +25,7 @@ Ini hasil di Microsoft Edge nya
 ![foto](foto/hasil2.PNG)
 
 4. Pemakaian method dalam objek
+
 ![foto](foto/3.PNG)
 <p> Ini hasil di Microsoft Edge nya </p>
 
@@ -36,3 +39,11 @@ Ini hasil di Microsoft Edge nya
 
 ![foto](foto/hasil4.1.PNG)
 ![foto](foto/hasil4.2.PNG)
+
+6. <p> Pembuatan fungsi dan cara pemanggilannya </p>
+
+![foto](foto/5.PNG)
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil5.PNG)
