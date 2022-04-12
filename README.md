@@ -47,3 +47,20 @@ Ini hasil di Microsoft Edge nya
 <p> Ini hasil di Microsoft Edge nya </p>
 
 ![foto](foto/hasil5.PNG)
+
+7. <strong> Dasar Pemrograman Di Javascript </strong>
+<p> Operasi dasar aritmatika </p>
+
+![foto](foto/6.PNG)
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil6.PNG)
+
+Seleksi kondisi (if..else)
+<p> disini saya akan memasukkan data 95 </p>
+![foto](foto/7.PNG)
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil7.PNG)
