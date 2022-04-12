@@ -16,6 +16,8 @@ Ini hasil di Microsoft Edge nya
 
 3. <strong> Javascrip Dasar </strong>
 <p> Pemakaian Alert sebagai property window. </p>
+
 ![foto](foto/2.PNG)
+
 Ini hasil di Microsoft Edge nya
 ![foto](foto/hasil2.PNG)
