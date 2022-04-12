@@ -65,3 +65,17 @@ Seleksi kondisi (if..else)
 <p> Ini hasil di Microsoft Edge nya </p>
 
 ![foto](foto/hasil7.PNG)
+
+<p> Penggunaan operator switch untuk seleksi kondisi </p>
+
+![foto](foto/8.PNG)
+
+<p> Ini hasil di Microsoft Edge nya </p>
+
+![foto](foto/hasil8.1.PNG)
+![foto](foto/hasil8.2.PNG)
+
+8. <strong> Pembuatan Form </strong>
+<p> Form Input </p>
+
+![foto](foto/9.PNG)
