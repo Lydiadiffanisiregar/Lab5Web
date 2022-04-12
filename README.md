@@ -29,6 +29,6 @@ Ini hasil di Microsoft Edge nya
 
 5. Pemakaian Prompt
 ![foto](foto/4.PNG)
-![foto](foto/5.PNG)
 Ini hasil di Microsoft Edge nya
-![foto](foto/hasil5.PNG)
+![foto](foto/hasil4.1.PNG)
+![foto](foto/hasil4.2.PNG)
