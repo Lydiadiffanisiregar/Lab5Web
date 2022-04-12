@@ -59,6 +59,7 @@ Ini hasil di Microsoft Edge nya
 
 Seleksi kondisi (if..else)
 <p> disini saya akan memasukkan data 95 </p>
+
 ![foto](foto/7.PNG)
 
 <p> Ini hasil di Microsoft Edge nya </p>
